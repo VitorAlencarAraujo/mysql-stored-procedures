@@ -27,7 +27,7 @@ mysql-stored-procedures/
 └── README.md
 ```
 
-## 📝 Atividades Desenvolvidas
+## Atividades Desenvolvidas
 
 ### Atividade 1 - Atualizar Preços por Categoria
 
